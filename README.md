@@ -6,8 +6,14 @@ A web application for managing tasks efficiently using the MERN stack.
 
 ## Screenshots
 
-### Post Section
-![DashBoard](https://github.com/rishirawat04/Insta-Clone-Social-media-application-for-sharing-moments-with-friends/blob/main/client/public/instaPost.png)
+### DashBoard
+![DashBoard](https://github.com/rishirawat04/Taskmanager/blob/main/client/public/pic2.png)
+
+### Update 
+![Update](https://github.com/rishirawat04/Taskmanager/blob/main/client/public/pic3.png)
+
+### login 
+![login](https://github.com/rishirawat04/Taskmanager/blob/main/client/public/pic1.png)
 
 ## Table of Contents
 
