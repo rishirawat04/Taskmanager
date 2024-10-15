@@ -17,10 +17,16 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "outDir": "./dist",       // Emit compiled files here
+    "noEmit": false            // Enable emitting output files
   },
   "include": [
     "src"
+  ],
+  "exclude": [
+    "node_modules",            // Exclude dependencies
+    "**/*.test.ts",            // Exclude test files
+    "**/*.test.tsx"
   ]
 }
