@@ -12,7 +12,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:3000', // Specify the origin you want to allow
+  origin: 'https://taskmanager-frontend-rwcj.onrender.com', // Specify the origin you want to allow
   credentials: true, // Enable sending cookies
 };
 
